@@ -1,0 +1,16 @@
+---
+author: 1zinnur9
+description: ''
+email: zinnuryesilyurt@gmail.com
+url: 1zinnur9.github.io
+domain: ''
+intro: ''
+googleanalytics: ''
+googleplus: ''
+brand: default
+landslide: /usr/bin/landslide
+css: _/default.css
+js: _/default.js
+theme: light
+indextemplate: _/index.erb
+foliotemplate: _/default.erb
